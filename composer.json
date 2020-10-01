@@ -1,6 +1,6 @@
 {
     "type": "project",
-    "license": "proprietary",
+    "license": "Apache License v2.0",
     "require": {
         "php": ">=7.2.5",
         "ext-ctype": "*",
