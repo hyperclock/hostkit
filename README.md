@@ -21,7 +21,7 @@
 
 
 ## Documentation
-Install instructions will be added to the [WIKI](../..(wiki)
+Install instructions will be added to the [WIKI](../../wiki)
 
 ## LICENSE
 Apache License v2.0, see [LICENSE](LICENSE) for details.
